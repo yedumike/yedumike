@@ -34,5 +34,5 @@ Aspiring backend developer, diving into Python, JavaScript, React, and Node.js. 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=yedumike&theme=dracula&hide_border=true)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yedumike&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yedumike&theme=github_dark)
-[![Mike's stats](https://github-readme-stats.vercel.app/api?username=yedumiker&show_icons=true&theme=github_dark)](https://github.com/yedumike)
+[![Mike's stats](https://github-readme-stats.vercel.app/api?username=yedumike&show_icons=true&theme=github_dark)](https://github.com/yedumike)
 
