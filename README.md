@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋
-Michael Ntumy Yedu 
+Michael Yedu here, 
 Aspiring backend developer, diving into Python, JavaScript, React, and Node.js. Always learning and building my skills to create solid solutions!
 
 - 🔭 I’m currently on a #100daysofCode journey towards Python mastery
