@@ -18,7 +18,8 @@ Aspiring backend developer, diving into Python, JavaScript, React, and Node.js. 
 
 - 🔭 I’m currently on a #100daysofCode journey towards Python mastery
 - 🌱 I’m currently improving on my RESTful services with Python/FastApi and Node/Javascript
-- ⚡ I'm currently working on a blogging application to improve my proficiency with ReactJs
+- ⚡ I'm currently improving on my SQL usage for database management and data analysis
+- 😎 I'm currently working on a blogging application to improve my proficiency with ReactJs
 
 <h3 align="left">Tech Stack:</h3>
 
